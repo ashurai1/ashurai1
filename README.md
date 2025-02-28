@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/itzashwini2220" target="blank"><img src="https://img.shields.io/twitter/follow/itzashwini2220?logo=twitter&style=for-the-badge" alt="itzashwini2220" /></a> </p>
 
-- 👯 I’m looking to collaborate on **on innovative open-source projects.**
+- 👯 I’m looking to collaborate **on innovative open-source projects.**
 
 - 💬 Ask me about **JavaScript, React, or open-source contributions.**
 
