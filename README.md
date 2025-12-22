@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Ashwani Rai. 
+# 💫 Hi 👋, I'm Ashwani Rai.
 
 **A passionate IT Student || Web Developer || Problem Solver**
 
